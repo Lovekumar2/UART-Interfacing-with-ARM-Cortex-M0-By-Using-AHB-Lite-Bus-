@@ -1,0 +1,8 @@
+set_property PACKAGE_PIN E3 [get_ports CLK]
+set_property PACKAGE_PIN A8 [get_ports RESET]
+set_property PACKAGE_PIN C11 [get_ports RsRx]
+set_property PACKAGE_PIN G3 [get_ports RsTx]
+set_property IOSTANDARD LVCMOS33 [get_ports CLK]
+set_property IOSTANDARD LVCMOS33 [get_ports RESET]
+set_property IOSTANDARD LVCMOS33 [get_ports RsRx]
+set_property IOSTANDARD LVCMOS33 [get_ports RsTx]
